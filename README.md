@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 style="text-align: center;">Welcome on my page 👋</h1>
+<p style="text-align: center;">
+    <a href="https://www.linkedin.com/in/zjerilon-ferero/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</p>
 
 <!--
 **playerfine/playerfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
